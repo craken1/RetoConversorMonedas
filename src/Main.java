@@ -52,6 +52,7 @@ public class Main {
             } else if (opcion == 7) {
                 System.out.println("Gracias por usar el conversor. ¡Hasta la próxima!");
                 continuar = false;
+                break;
             } else {
                 System.out.println("Opción inválida. Por favor, selecciona una opción del 1 al 7.");
             }
